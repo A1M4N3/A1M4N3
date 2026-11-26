@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="cards/header-narrow-dark.svg">
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="cards/header-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/header-wide-dark.svg">
-  <img alt="One engineer. The whole product. 6,036 contributions in the last 12 months, 99.7% of them in private repositories." src="cards/header-wide-light.svg" width="100%">
+  <img alt="One engineer. The whole product. 6,091 contributions in the last 12 months, 99.7% of them in private repositories." src="cards/header-wide-light.svg" width="100%">
 </picture>
 
 <p>Mobile, TV and web apps, the APIs behind them and the infrastructure they run on, from first schema to production.</p>
